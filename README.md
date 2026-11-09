@@ -42,3 +42,7 @@ TicTacToe/
 ## Tech stack
 
 HTML5, CSS3, vanilla JavaScript (ES6).
+
+## Licence
+
+[MIT](LICENSE) © 2024–2026 Samarth Jaiswal
