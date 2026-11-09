@@ -1,7 +1,13 @@
 # Tic Tac Toe
 
+[![Play it](https://img.shields.io/badge/play%20it-samarthjaiswal.github.io%2FTicTacToe-548687?style=flat-square)](https://samarthjaiswal.github.io/TicTacToe/)
+
 A two-player Tic Tac Toe game for the browser, written in plain HTML, CSS and JavaScript with no
 dependencies or build step. Both players share one screen; O always moves first.
+
+**[Play it →](https://samarthjaiswal.github.io/TicTacToe/)**
+
+![A game in progress: two Xs and three Os on the board, with "Turn: X" above it](og.png)
 
 ## Features
 
@@ -22,7 +28,7 @@ python3 -m http.server 8000
 # open http://localhost:8000
 ```
 
-Because it is a static site, it could also be hosted with GitHub Pages (not currently enabled).
+It is also live on GitHub Pages, served straight from the `main` branch.
 
 ## Project structure
 
